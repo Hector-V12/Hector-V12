@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Vocal Recognition Website<br>👯 I’m looking for an internship as a Full-stack Dev or Software Engineer<br>🌱 I’m currently learning TensorFlowJs and NestJs<br>⚡ Fun fact : I have done some smart contracts with Solidity
+🔭 I’m currently working on a Vocal Recognition Website<br><br>🌱 I’m currently learning TensorFlowJs and Neovim <br>⚡ Fun fact : I have done some smart contracts with Solidity
 
 
 ## 🌐 Socials:
