@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Vocal Recognition Website<br><br>🌱 I’m currently learning TensorFlowJs and Neovim <br>⚡ Fun fact : I have done some smart contracts with Solidity
+🔭 I’m currently working on a Vocal Recognition Website<br>🌱 I’m currently learning TensorFlowJs and Neovim <br>⚡ Fun fact : I have done some smart contracts with Solidity
 
 
 ## 🌐 Socials:
